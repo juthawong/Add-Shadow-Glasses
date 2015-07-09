@@ -1,2 +1,21 @@
 # Add-Shadow-Glasses
-A Simply Jquery that automated add and create defa manager style shadow glass to every div
+A Simply CSS that automated add and create defa manager style shadow glass to div , img , video tag.
+
+#CDN 
+Code on Pastebin : http://pastebin.com/aey18UHK
+Content [ HTML ] : 
+
+For DIV
+
+<link rel="stylesheet" href="http://download.juthawong.com/project/shadowglass/ampareglass.css"/>
+
+For Image 
+
+<link rel="stylesheet" href="http://download.juthawong.com/project/shadowglass/imageglass.css"/>
+
+For Video
+
+<link rel="stylesheet" href="http://download.juthawong.com/project/shadowglass/videoglass.css"/>
+
+#Donate
+If you like our project . Don't forget to donate us : http://www.juthawong.com/donate 
