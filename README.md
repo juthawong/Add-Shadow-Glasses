@@ -7,15 +7,15 @@ Content [ HTML ] :
 
 For DIV
 
-<link rel="stylesheet" href="http://download.juthawong.com/project/shadowglass/ampareglass.css"/>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;http://download.juthawong.com/project/shadowglass/ampareglass.css&quot;/&gt;
 
 For Image 
 
-<link rel="stylesheet" href="http://download.juthawong.com/project/shadowglass/imageglass.css"/>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;http://download.juthawong.com/project/shadowglass/imageglass.css&quot;/&gt;
 
 For Video
 
-<link rel="stylesheet" href="http://download.juthawong.com/project/shadowglass/videoglass.css"/>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;http://download.juthawong.com/project/shadowglass/videoglass.css&quot;/&gt;
 
 #Donate
 If you like our project . Don't forget to donate us : http://www.juthawong.com/donate 
